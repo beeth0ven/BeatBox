@@ -10,6 +10,7 @@
     </style>
 
     <style name="BeatBoxButton" parent="android:Widget.Material.Button">
+        <item name="android:background">@drawable/beat_box_button</item>
     </style>
 
 </resources>
